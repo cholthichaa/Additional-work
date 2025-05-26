@@ -25,4 +25,8 @@ https://www.figma.com/proto/HUixYxLN0lm880QQrvltF6/SuperAi?node-id=154-1634&p=f&
 ### Figma สำหรับระบบจัดการหน้าร้าน 
 https://www.figma.com/design/HFiM1So25tnlTgNUvL7kcP/Untitled?node-id=0-1&t=JzvJkD7gBolhN0JH-1 
 
+#### Admin 
+https://www.figma.com/proto/HFiM1So25tnlTgNUvL7kcP/POS?node-id=2-1097&p=f&t=pZRX44yFJ1tpZnOC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=25%3A2039
 
+#### Cashier
+https://www.figma.com/proto/HFiM1So25tnlTgNUvL7kcP/POS?node-id=36-3885&p=f&t=pZRX44yFJ1tpZnOC-0&scaling=min-zoom&content-scaling=fixed&page-id=28%3A2165&starting-point-node-id=36%3A3703
