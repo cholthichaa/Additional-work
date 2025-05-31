@@ -21,6 +21,10 @@ https://www.figma.com/design/HUixYxLN0lm880QQrvltF6/SuperAi?node-id=19-38&t=DJnH
 #### User
 https://www.figma.com/proto/HUixYxLN0lm880QQrvltF6/SuperAi?node-id=154-1634&p=f&t=woPWCBMOo7o36Rt9-1&scaling=min-zoom&content-scaling=fixed&page-id=19%3A38&starting-point-node-id=154%3A1634 
 
+#### Admin
+[https://www.figma.com/design/HUixYxLN0lm880QQrvltF6/SuperAi?node-id=19-37&p=f&m=draw
+](https://www.figma.com/design/HUixYxLN0lm880QQrvltF6/SuperAi?node-id=19-37&p=f&m=draw)
+
 
 ### Figma สำหรับระบบจัดการหน้าร้าน 
 https://www.figma.com/design/HFiM1So25tnlTgNUvL7kcP/Untitled?node-id=0-1&t=JzvJkD7gBolhN0JH-1 
