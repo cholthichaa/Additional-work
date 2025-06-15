@@ -3,7 +3,7 @@
 ## ข้อมูลเพิ่มเติมเกี่ยวกับการออกแบบระบบต่างๆ
 ### https://drive.google.com/drive/folders/1sF4KhkAG-zpqxIxtCOrtMrzk_6x6Ykpt?usp=drive_link
 
-### การสถาปัยกรรมระบบ
+### การออกแบบสถาปัยกรรมระบบ
 https://www.canva.com/design/DAGgUliQhIY/SRue0Phsohnk77RObrqoCg/edit?utm_content=DAGgUliQhIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 ### การวิเคราะห์ระบบ
@@ -22,10 +22,11 @@ https://online.fliphtml5.com/mglsm/rlvg/?fbclid=IwY2xjawJSBFBleHRuA2FlbQIxMAABHS
 ### หน้าจอระบบสหกรณ์การเกษตร
 https://drive.google.com/drive/folders/1JXgxTserG3f9KdojA7ltjILuoPZMJeUA
 
-
 ### เอกสารต่างๆสำหรับโปรเจ็ค
 การจัดทำเอกสารรายงาน การทำคู่มือผู้ใช้ การทำงานวิจัยเปเปอร์
 https://drive.google.com/drive/folders/126im8Ha1_ECAx1nQh95HlJK1SQSJPv9V?usp=drive_link
+
+-------------------------------------------------------------------------------------
 
 ### Figma สำหรับระบบจัดการคอร์สออนไลน์ 
 https://www.figma.com/design/CYPiMz7GyDb5twVE6ylnLf/COM?node-id=0-1&t=C7lbMQtJYYt0jbfz-1 
