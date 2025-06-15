@@ -3,6 +3,9 @@
 ## ข้อมูลเพิ่มเติมเกี่ยวกับการออกแบบระบบต่างๆ
 ### https://drive.google.com/drive/folders/1sF4KhkAG-zpqxIxtCOrtMrzk_6x6Ykpt?usp=drive_link
 
+### ผลงานรวมทั้งหมด
+https://drive.google.com/file/d/1rt-AKAgwJG2GeA-5V6G62tMl-Op_t6em/view?usp=sharing
+
 ### การออกแบบสถาปัยกรรมระบบ
 https://www.canva.com/design/DAGgUliQhIY/SRue0Phsohnk77RObrqoCg/edit?utm_content=DAGgUliQhIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
